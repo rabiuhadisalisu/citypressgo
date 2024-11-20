@@ -1,7 +1,7 @@
 import 'dart:developer';
 import 'dart:io';
 import 'package:facebook_audience_network/facebook_audience_network.dart';
-import 'package:goapp/config.dart';
+import 'package:citypressgo/config.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 

@@ -1,5 +1,5 @@
 final dynamic fr = {
-  'goApp': "Aller à l'application",
+  'CityPressGo': "Aller à l'application",
   'prev': "Précédent",
   'next': "Suivant",
   'search': "Recherche",

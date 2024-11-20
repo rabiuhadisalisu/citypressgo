@@ -1,4 +1,4 @@
-package com.webiots.goapp
+package com.rabyte.citypressgo
 
 import io.flutter.embedding.android.FlutterActivity
 

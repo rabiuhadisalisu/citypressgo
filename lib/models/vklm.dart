@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:developer';
 
-import 'package:goapp/screens/other_screens/dashboard/dashboard.dart';
+import 'package:citypressgo/screens/other_screens/dashboard/dashboard.dart';
 
 import '../config.dart';
 

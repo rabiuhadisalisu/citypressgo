@@ -1,5 +1,5 @@
-import 'package:goapp/widgets/common_button.dart';
-import 'package:goapp/widgets/directionality_rtl.dart';
+import 'package:citypressgo/widgets/common_button.dart';
+import 'package:citypressgo/widgets/directionality_rtl.dart';
 
 import '../../config.dart';
 import '../../controllers/other_controller/language_controller.dart';

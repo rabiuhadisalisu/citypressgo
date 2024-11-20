@@ -1,8 +1,8 @@
 import 'package:custom_refresh_indicator/custom_refresh_indicator.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:goapp/controllers/other_controller/setting_controller.dart';
-import 'package:goapp/screens/other_screens/settings_screens/custom_switch.dart';
-import 'package:goapp/widgets/directionality_rtl.dart';
+import 'package:citypressgo/controllers/other_controller/setting_controller.dart';
+import 'package:citypressgo/screens/other_screens/settings_screens/custom_switch.dart';
+import 'package:citypressgo/widgets/directionality_rtl.dart';
 
 import '../../../config.dart';
 import '../../../widgets/common_loader.dart';

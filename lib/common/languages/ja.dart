@@ -1,5 +1,5 @@
 final dynamic ja = {
-  'goApp': "囲碁アプリ",
+  'CityPressGo': "囲碁アプリ",
   'prev': "前へ",
   'next': "次",
   'search': "検索",

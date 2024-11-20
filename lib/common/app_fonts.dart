@@ -1,7 +1,7 @@
 
 class AppFonts {
 // On boarding page fonts
-  String goApp = "goApp";
+  String CityPressGo = "CityPressGo";
   String prev = "prev";
   String next = "next";
   String search = "search";

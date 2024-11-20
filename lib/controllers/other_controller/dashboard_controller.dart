@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'dart:developer';
 
-import 'package:goapp/controllers/other_controller/setting_controller.dart';
-import 'package:goapp/screens/other_screens/settings_screens/index.dart';
-import 'package:goapp/widgets/common_button.dart';
+import 'package:citypressgo/controllers/other_controller/setting_controller.dart';
+import 'package:citypressgo/screens/other_screens/settings_screens/index.dart';
+import 'package:citypressgo/widgets/common_button.dart';
 
 import '../../config.dart';
 import 'package:animated_notch_bottom_bar/animated_notch_bottom_bar/animated_notch_bottom_bar.dart';

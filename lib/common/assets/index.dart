@@ -1,4 +1,4 @@
-import 'package:goapp/common/assets/svg_assets.dart';
+import 'package:citypressgo/common/assets/svg_assets.dart';
 
 import 'image_assets.dart';
 

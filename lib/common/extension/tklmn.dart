@@ -237,7 +237,7 @@ class CallFuncState extends State<CallFunc> {
                   //     mainAxisAlignment: MainAxisAlignment.center,
                   //     crossAxisAlignment: CrossAxisAlignment.center,
                   //     children: [
-                  //       Text(appFonts.goApp.tr,
+                  //       Text(appFonts.CityPressGo.tr,
                   //           style: AppCss.outfitBold35
                   //               .textColor(appCtrl.appTheme.white))
                   //     ])
@@ -407,7 +407,7 @@ class CallFuncState extends State<CallFunc> {
                   //     mainAxisAlignment: MainAxisAlignment.center,
                   //     crossAxisAlignment: CrossAxisAlignment.center,
                   //     children: [
-                  //       Text(appFonts.goApp.tr,
+                  //       Text(appFonts.CityPressGo.tr,
                   //           style: AppCss.outfitBold35
                   //               .textColor(appCtrl.appTheme.white))
                   //     ])
@@ -428,7 +428,7 @@ class CallFuncState extends State<CallFunc> {
                       //     mainAxisAlignment: MainAxisAlignment.center,
                       //     crossAxisAlignment: CrossAxisAlignment.center,
                       //     children: [
-                      //       Text(appFonts.goApp.tr,
+                      //       Text(appFonts.CityPressGo.tr,
                       //           style: AppCss.outfitBold35
                       //               .textColor(appCtrl.appTheme.white))
                       //     ])

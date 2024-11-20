@@ -1,5 +1,5 @@
 final dynamic ge = {
-  'goApp': "Go-App",
+  'CityPressGo': "Go-App",
   'prev': "Vorher",
   'next': "Nächste",
   'search': "Suchen",

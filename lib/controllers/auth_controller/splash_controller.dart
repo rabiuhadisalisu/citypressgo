@@ -2,7 +2,7 @@ import 'dart:developer';
 import 'dart:math' as math;
 
 import 'package:firebase_messaging/firebase_messaging.dart';
-import 'package:goapp/config.dart';
+import 'package:citypressgo/config.dart';
 
 import '../../screens/other_screens/dashboard/dashboard.dart';
 import '../../screens/other_screens/internet.dart';

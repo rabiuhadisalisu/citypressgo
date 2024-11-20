@@ -1,5 +1,5 @@
 final dynamic en = {
-  'goApp': "Go App",
+  'CityPressGo': "Go App",
   'prev': "Prev",
   'next': "Next",
   'search': "Search",

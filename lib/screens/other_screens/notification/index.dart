@@ -1,5 +1,5 @@
-import 'package:goapp/config.dart';
-import 'package:goapp/widgets/directionality_rtl.dart';
+import 'package:citypressgo/config.dart';
+import 'package:citypressgo/widgets/directionality_rtl.dart';
 import 'package:intl/intl.dart';
 
 class NotificationList extends StatelessWidget {

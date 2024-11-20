@@ -1,4 +1,4 @@
-import 'package:goapp/controllers/other_controller/setting_controller.dart';
+import 'package:citypressgo/controllers/other_controller/setting_controller.dart';
 
 import '../../../config.dart';
 

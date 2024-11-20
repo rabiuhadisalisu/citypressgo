@@ -1,5 +1,5 @@
 final dynamic it = {
-  'goApp': "Vai all'app",
+  'CityPressGo': "Vai all'app",
   'prev': "Prec",
   'next': "Prossima",
   'search': "Ricerca",

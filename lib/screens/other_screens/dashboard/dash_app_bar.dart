@@ -1,4 +1,4 @@
-import 'package:goapp/widgets/common_button.dart';
+import 'package:citypressgo/widgets/common_button.dart';
 
 import '../../../config.dart';
 import 'app_bar_title.dart';
@@ -72,7 +72,7 @@ class DashboardAppBar extends StatelessWidget implements PreferredSizeWidget {
                             onTap: () =>
                                 Get.toNamed(routeName.webView, arguments: {
                               "URL":
-                                  "https://codecanyon.net/item/goapp-for-web-to-app-convertor-flutter-admin-panel/51666687"
+                                  "https://codecanyon.net/item/citypressgo-for-web-to-app-convertor-flutter-admin-panel/51666687"
                             }),
                           )
                         : Container(

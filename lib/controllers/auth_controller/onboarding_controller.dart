@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:goapp/config.dart';
+import 'package:citypressgo/config.dart';
 
 import '../../utils/extensions.dart';
 

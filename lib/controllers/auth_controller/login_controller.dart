@@ -1,4 +1,4 @@
-import 'package:goapp/config.dart';
+import 'package:citypressgo/config.dart';
 
 class LoginScreenController extends GetxController {
   @override

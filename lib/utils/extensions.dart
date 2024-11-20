@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:ui';
 
 import 'package:connectivity_plus/connectivity_plus.dart';
-import 'package:goapp/config.dart';
+import 'package:citypressgo/config.dart';
 
 import '../models/vklm.dart';
 

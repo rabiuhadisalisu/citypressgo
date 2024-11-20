@@ -1,5 +1,5 @@
 final dynamic hi = {
-  'goApp': "जाओ ऐप",
+  'CityPressGo': "जाओ ऐप",
   'prev': "पिछला",
   'next': "अगला",
   'search': "खोज",

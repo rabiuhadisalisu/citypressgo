@@ -1,4 +1,4 @@
-import 'package:goapp/screens/other_screens/search_screens/layouts/search_text_box.dart';
+import 'package:citypressgo/screens/other_screens/search_screens/layouts/search_text_box.dart';
 
 import '../../../config.dart';
 

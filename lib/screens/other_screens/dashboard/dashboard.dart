@@ -1,7 +1,7 @@
 
-import 'package:goapp/screens/other_screens/dashboard/bottom_nav.dart';
-import 'package:goapp/screens/other_screens/dashboard/dash_app_bar.dart';
-import 'package:goapp/widgets/directionality_rtl.dart';
+import 'package:citypressgo/screens/other_screens/dashboard/bottom_nav.dart';
+import 'package:citypressgo/screens/other_screens/dashboard/dash_app_bar.dart';
+import 'package:citypressgo/widgets/directionality_rtl.dart';
 import '../../../config.dart';
 
 class Dashboard extends StatelessWidget {

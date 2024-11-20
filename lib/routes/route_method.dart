@@ -1,10 +1,10 @@
-import 'package:goapp/routes/route_name.dart';
-import 'package:goapp/screens/other_screens/about_us/index.dart';
-import 'package:goapp/screens/other_screens/dashboard/dashboard.dart';
-import 'package:goapp/screens/other_screens/html_page.dart';
-import 'package:goapp/screens/other_screens/language.dart';
-import 'package:goapp/screens/other_screens/notification/index.dart';
-import 'package:goapp/screens/other_screens/web_view.dart';
+import 'package:citypressgo/routes/route_name.dart';
+import 'package:citypressgo/screens/other_screens/about_us/index.dart';
+import 'package:citypressgo/screens/other_screens/dashboard/dashboard.dart';
+import 'package:citypressgo/screens/other_screens/html_page.dart';
+import 'package:citypressgo/screens/other_screens/language.dart';
+import 'package:citypressgo/screens/other_screens/notification/index.dart';
+import 'package:citypressgo/screens/other_screens/web_view.dart';
 
 import '../config.dart';
 

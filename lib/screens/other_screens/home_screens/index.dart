@@ -1,6 +1,6 @@
 import 'package:custom_refresh_indicator/custom_refresh_indicator.dart';
-import 'package:goapp/screens/other_screens/home_screens/home_body.dart';
-import 'package:goapp/widgets/common_loader.dart';
+import 'package:citypressgo/screens/other_screens/home_screens/home_body.dart';
+import 'package:citypressgo/widgets/common_loader.dart';
 import '../../../config.dart';
 
 class HomeScreen extends StatelessWidget {

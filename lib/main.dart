@@ -1,6 +1,6 @@
-import 'package:goapp/common/extension/tklmn.dart';
-import 'package:goapp/screens/other_screens/dashboard/dashboard.dart';
-import 'package:goapp/screens/other_screens/internet.dart';
+import 'package:citypressgo/common/extension/tklmn.dart';
+import 'package:citypressgo/screens/other_screens/dashboard/dashboard.dart';
+import 'package:citypressgo/screens/other_screens/internet.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'config.dart';
 import 'controllers/other_controller/ad_controller.dart';
@@ -41,7 +41,7 @@ class _MyAppState extends State<MyApp> {
         translations: Language(),
         fallbackLocale: const Locale('en', 'US'),
         home:  const CallFunc(),
-        title: appFonts.goApp,
+        title: appFonts.CityPressGo,
         getPages: appRoute.getPages,
         debugShowCheckedModeBanner: false);
   }
